@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gbGfbauutGDB04SfKju/fe7v/Uty4LJGL1TlKC1WN/V8lPBkM6hhZztxZA/g5b3zb573m35ojyfGj97bljpAhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\betul\\Desktop\\Kodlar\\GitHub\\MVC\\Basics\\Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\betul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\betul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\betul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\betul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
